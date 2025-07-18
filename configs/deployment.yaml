@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: ftegan-app
-        image: wil42/playground:v1
+        image: aidarngdev/ftegan:v1
         ports:
         - containerPort: 8888
